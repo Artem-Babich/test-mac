@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "testcafe": "file:testcafe-1.19.0-alpha.2.tgz"
+    "testcafe": "^1.18.6"
   }
 }
