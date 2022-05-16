@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "testcafe": "file:testcafe-1.19.0-alpha.3.tgz"
+    "testcafe": "file:testcafe-1.19.0-alpha.4.tgz"
   }
 }
